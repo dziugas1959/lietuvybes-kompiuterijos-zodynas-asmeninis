@@ -270,6 +270,8 @@ Mode – Režimas
 
 Monitor – Prižiūryklė/-ėtojas; Monitorius; Stebėti/-oja/-a
 
+Multiplayer – Daugiažaidėjė̄škā (Žemaičių k.)
+
 Mux – Tankintuvas
 
 Name – Pavadinimas (Ne asmuo)
@@ -423,6 +425,8 @@ Set – Rinkinys/Nustatyti
 Settings – Nustatymai
 
 Setup – Sąranka
+
+Singleplayer – Vienžaidėjė̄škā (Žemaičių k.)
 
 Size – Dydis
 
