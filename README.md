@@ -173,6 +173,8 @@ Gracefully – Grakščiai
 
 Grant – Duoti/Suteikti
 
+Ground – (Į)žeminimas+linksniai
+
 Guest – Svečias
 
 HDD – („HDD“) Kietasis diskas
@@ -339,6 +341,8 @@ Prevent – Išvengti
 
 Primary – Pirminis/Pagrindinis
 
+Printer – Spausdintuvas
+
 Process – Apdoroti
 
 Processing – Aprodojimas/-ama
@@ -480,3 +484,65 @@ Tuning – Derinimas (įrang.)
 Tunneling – Tuneliavimas
 
 TX – Nusiųsta reaktyviai
+
+Unable – Nepavyko/Negalima
+
+Unavailable – Nepasiekiama
+
+Unbound – Nesaistomas
+
+Undefined – Neapibrėžta/-s
+
+Undone – Anuliuota/-s
+
+Unit – Vienetas
+
+Unknown – Nežinoma/-s/-i
+
+Unnamed – Nepavadinta/-s/-i
+
+Unsaved – Neišsaugota/-s/-i
+
+Unspecified – Nenustatyta/-s/-i
+
+Unsupported – Nepalaikoma/-s/-i
+
+Untagged – Nepažymėta/-s/-i
+
+Update – Atnaujinti
+
+Upgrade – Aukštutinis atnaujinimas
+
+Uplink – Aukštynkryptis
+
+Upload – Įkelti
+
+Upstream – Išsiunčiamas srautas
+
+URL – („URL“) Saitas
+
+Use – Naudoti
+
+Used – Naudojama/-s/-i
+
+User – Naudotojas/Vartotojas
+
+Username – Slapyvardis/Vartotojo/Naudotojo vardas
+
+Valid – Tinkama/-s
+
+Vendor – Pardavėjas
+
+Verbose – Plačiai/Išsamiai/Daugiažodiškai
+
+Verify – Patvirtinti/Patikrinti
+
+VPN – (VPN) Virtualus privatus tinklas
+
+WAN – („WAN“) Platusis tinklas
+
+Whitelist – Leidžiamasis sąrašas
+
+Wiki – Žinių aiškinamasis puslapis
+
+Wireless – Belaidis/Bevielis
