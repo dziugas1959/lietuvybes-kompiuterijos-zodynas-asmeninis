@@ -3,6 +3,9 @@
 Sveiki,
 
 Pristatau asmeninį su lietuviškinta kompiuterijos ir tinklavimo žodyną, jis remiamas oficialiais ir asmeninias, ypatingai remiantis raštija.lt, tačiau ten labai daug trūkumų ir netikslumų, todėl esu sukūręs savo papildomo išdėstymo žodyną. Visas šis žodynas yra ranka darytas.
+
+Jeigu turite pasiūlymų ar pastebėjimų, sukurkite „Issues“ skirtuke pranešimą.
+
 Visas žodynas remiasi nuo anglų į lietuvių (galimai ne pagal abėcėlę).
 
 Anglų – Lietuvių:
