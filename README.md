@@ -537,7 +537,7 @@ Verbose – Plačiai/Išsamiai/Daugiažodiškai
 
 Verify – Patvirtinti/Patikrinti
 
-VPN – (VPN) Virtualus privatus tinklas
+VPN – („VPN“) Virtualus privatus tinklas
 
 WAN – („WAN“) Platusis tinklas
 
