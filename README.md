@@ -17,6 +17,8 @@ Adblock – Reklaminio/Skelbimų turinio blokatorius
 
 Add – Pridėti
 
+Addon – Priedas
+
 Advanced Settings – Pažangūs nustatymai
 
 Always – Visada
@@ -45,7 +47,7 @@ Broadcast – Transliacija/-vimas
 
 Buffer – Buferis
 
-Bus – Tinklo magistralė
+Bus – Tinklo magistralė/Autobusas
 
 Bypass – Apėjimas/-eiti
 
@@ -101,6 +103,8 @@ Disable – Išjungti
 
 Disabled – Išjungta/Neįgalinta (-as/-i)
 
+Desktop – Darbalaukis
+
 Domain – Domenas-Sritis
 
 Downgrade – Aukštutinis versijos/programos/įrangos į senesnę sugrąžinimas
@@ -149,6 +153,8 @@ Firewall – Užkarda (Komp./Tinklo); Ugniasienė (Ugnegesių gelbėtojų)
 
 Flash (Storage) – Išliekamoji atmintis
 
+Flash (Action) – Įrašymas į įrangą
+
 Folder – Aplankas/Aplankalas
 
 Forward – Tolyn/Persiųsti
@@ -168,6 +174,8 @@ Gracefully – Grakščiai
 Grant – Duoti/Suteikti
 
 Guest – Svečias
+
+HDD – („HDD“) Kietasis diskas
 
 Helper – Pagelbiklis (įrankis); Pagalbininkas/-ė (asmuo)
 
@@ -294,3 +302,181 @@ Output – Išvestis
 Override – Perkeisti (virš)
 
 Overwrite – Perrašyti (virš)
+
+Package – Prog. įrang. paketas
+
+Packet – (Duomenų) Paketas
+
+Page – Puslapis
+
+Parity – Suvienodėjimas
+
+Parse – Nagrinėti
+
+Passphrase – Slapta frazė 
+
+Path – Kelias
+
+Peer – Lygiarangis
+
+Peers – Lygiarangiai
+
+Performance – Našumas
+
+Ping – Ryšio atsakas
+
+Plugin – Plėtinys
+
+Port – Prievadas
+
+Ports – Prievadai
+
+Preference – Pageidavimas
+
+Prefix – Prielinksnis/Priešdėlis
+
+Prevent – Išvengti
+
+Primary – Pirminis/Pagrindinis
+
+Process – Apdoroti
+
+Processing – Aprodojimas/-ama
+
+Provider – Teikėjas (paslaugos); Tiekėjas (prekės)
+
+Proxy – Įgaliotas/-ai
+
+Queries – Užklausos
+
+Quering – Užklausoma/-i
+
+Query – Užklausa
+
+Random – Atsitiktinis
+
+Randomization – Atsitiktinių imčių nustatymas
+
+Range – Diapazonas
+
+Rate – Sparta
+
+Ratio – Santykis
+
+Raw – Neapdorota/-s/-i
+
+Realm – Valda/Sritis
+
+Records – Įrašai
+
+Reference – Išnaša/Pamatinis
+
+References – Išnašos/Pamatiniai?
+
+Relay – Retransliuoti/Perduoti/Perdavimas
+
+Relevant – Aktualus/Reikšmingas
+
+Reload – Perleidimas/-sti
+
+Report – Atskaita (žurn.); Pranešti (veiks.)
+
+Required – Reikalinga/-s
+
+Reset – Grąžinti į pradinę padėti ar būsena** (Sinonimiškai tinka abiems)
+
+Resolver – Sprendiklis
+
+Restore – Atkurti/Atstatyti (-ymas)** (Sinonimiškai tinka abiems)
+
+Revision – Poversijis
+
+Roaming – Klajojimas/Tarptinklis
+
+Routed – Maršrutizuotas
+
+Routing – Kelvada
+
+Run – Vykdyti
+
+RX – Atsiųsta/Gauta reaktyviai
+
+Schedule – Planuotojas/Tvarkaraštis
+
+Section – Skryius
+
+Selected – Parinktas/Pasirinktas
+
+Server – Serveris
+
+Service – Tarnyba
+
+Set – Rinkinys/Nustatyti
+
+Settings – Nustatymai
+
+Setup – Sąranka
+
+Size – Dydis
+
+Slave – Valdomasis
+
+Slaves – Valdomieji
+
+Snooping – Vientisinio adresinio sluoksnio protokolas – „Snooping“
+
+Software – Taikomoji programa
+
+Sort – Rūšiuoti
+
+Specifies – Nurodo
+
+Standard – Tipinis/Standartas
+
+Start – Paleisti
+
+Status – Būklė/Būsena
+
+Stop – Stabdyti
+
+Subnet – Potinklis
+
+Summary – Santrauka/Suvestinė
+
+Suspend – Sulaikyti/Pristabdyti
+
+Swap – Talpykla
+
+Switch – Komutatorius/Jungiklis
+
+Table – Lentelė/Stalas
+
+Tag – Žyma
+
+Tagged – Pažymėtas
+
+Target – Taikomasis/-oji
+
+Template – Šablonas
+
+Termination – Sustabdymas
+
+Threshold – Slenkstis
+
+Timeout – Pasibaigė užklausos laikas
+
+Token – Žetonas
+
+to use – kurią naudoti
+
+Trace – Atsekamumas
+
+Traffic – Srautas
+
+Transmission – Perdavimas
+
+Tuning – Derinimas (įrang.)
+
+Tunneling – Tuneliavimas
+
+TX – Nusiųsta reaktyviai
