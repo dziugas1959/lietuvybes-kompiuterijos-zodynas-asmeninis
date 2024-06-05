@@ -24,9 +24,13 @@ Addon – Priedas
 
 Advanced Settings – Pažangūs nustatymai
 
+Alert – Įspėti
+
 Always – Visada
 
 Announcement – Paskelbimas
+
+Architecture – Architektūra
 
 Array – Masyvas
 
@@ -42,15 +46,19 @@ Binary – Dvejetainė
 
 Bind – Pririšti
 
+Bitrate – Pralaidumas (bitų)
+
 Blacklist – Draudžiamasis sąrašas
 
 Bridge – „Tinklo tiltas“ – Jungimas/-iamasis
 
-Broadcast – Transliacija/-vimas
+Broadcast – Transliacija/-vimas/-iuoti
+
+Browse – Naršyti
 
 Buffer – Buferis
 
-Bus – Tinklo magistralė/Autobusas
+Bus – (Tinklo) Magistralė/Autobusas
 
 Bypass – Apėjimas/-eiti
 
@@ -60,6 +68,8 @@ Capture – Užfiksuoti
 
 Chain – Grandinė
 
+Changes – Pakeitimai
+
 Checksum – Kontrolinė patikros suma
 
 Cipher – Šifras
@@ -67,6 +77,10 @@ Cipher – Šifras
 Compressed – Suspaustas/Suglaudintas
 
 Configuration – Konfigūracija
+
+Confirm – Patvirtinti
+
+Confirmation – Patvirtinimas
 
 Constraint – Suvaržymas/Apribojimas
 
@@ -80,7 +94,13 @@ Corresponding – Atitinkamus
 
 Credential – Kredencialas (Remiantis ES dokumentais)
 
+Critical – Kritinė/-is
+
+Close – Uždaryti
+
 Custom – Pasirinktinis (/-ė/-iai/-į)
+
+Daemon – Paslaugų teikimo sistema
 
 Dashboard – Ataskaitų skydelis
 
@@ -96,6 +116,8 @@ Define – Apibrėžti
 
 Delay – Atidėti/-ėjimas
 
+Description – Aprašymas
+
 Deselect – Atžymėti
 
 Destination – Paskirties/Kelionės tikslas
@@ -105,6 +127,10 @@ Details – Išsamesnė informacija
 Disable – Išjungti
 
 Disabled – Išjungta/Neįgalinta (-as/-i)
+
+Distributed Hash Table (DHT) – Išskirstyta maišos lentelė („DHT“)
+
+Dynamic Host Configuration Protocol (DHCP) – Dinamiškas skleidėjo/p.k – vedėjo konfigūracijos protokolas („DHCP“)
 
 Desktop – Darbalaukis
 
@@ -138,6 +164,8 @@ Error – Klaida
 
 Established – Įtvirtinta
 
+Extended Service Set Identifier (ESSID) – Išplėstas tarnybų rinkinio identifikatorius („ESSID“)
+
 Ethernet – „Eternetas“
 
 Exceed – Viršyti
@@ -150,9 +178,15 @@ Failure – Triktis/Gedimas
 
 Feed – Padavimas
 
+Feedback – Atsiliepimas/-ai
+
 Filesystem – Failų sistema
 
 Firewall – Užkarda (Komp./Tinklo); Ugniasienė (Ugnegesių gelbėtojų)
+
+Firmware – Programinė įranga
+
+Field – Laukas
 
 Flash (Storage) – Išliekamoji atmintis
 
@@ -185,6 +219,8 @@ HDD – („HDD“) Kietasis diskas
 Helper – Pagelbiklis (įrankis); Pagalbininkas/-ė (asmuo)
 
 Hibernation – Žiemojimas/Įrašų migdymas
+
+Hypertext Transfer Protocol Secure (HTTPS) – Saugus hipertekstų siuntimo protokolas („HTTPS“)
 
 Host – Skleidėjas/P.k – vėdėjas *P.k – Pagrindinis kompiuteris+linksnis
 
@@ -238,7 +274,9 @@ LAN – Vietinis tinklas („LAN“)
 
 Latency – Atsakas
 
-Latest – Paskiausias
+Latest – Naujausias/Paskiausias
+
+Light-Emitting Diode (LED) – Šviesos diodas („LED“)
 
 Legacy – Pasenusio/-s standarto ar įrangos
 
@@ -251,6 +289,10 @@ Listen – Laukti (-iama/-s) prisijungimo/jungties ryšio
 Listening – Laukia prisijungimo/jungties ryšio (stebi užklausas ir pasiruošęs priimti)
 
 Load – Įkelti/Apkrova
+
+Local Peer Discovery (LPD) – Vietinis lygiarangio atradimas („LPD“)
+
+Log – Žurnalas
 
 Make sure – Įsitikinkite
 
@@ -273,6 +315,8 @@ Monitor – Prižiūryklė/-ėtojas; Monitorius; Stebėti/-oja/-a
 Multiplayer – Daugiažaidėjė̄škā (Žemaičių k.)
 
 Mux – Tankintuvas
+
+Multicast – Daugiadresinis transliavimas
 
 Name – Pavadinimas (Ne asmuo)
 
@@ -399,6 +443,8 @@ Resolver – Sprendiklis
 Restore – Atkurti/Atstatyti (-ymas)** (Sinonimiškai tinka abiems)
 
 Revision – Poversijis
+
+Request – Prašymas
 
 Roaming – Klajojimas/Tarptinklis
 
@@ -547,6 +593,8 @@ Verify – Patvirtinti/Patikrinti
 VPN – („VPN“) Virtualus privatus tinklas
 
 WAN – („WAN“) Platusis tinklas
+
+Virtual Local Area Network (VLAN) – Virtualùsis viẽtinis tiñklas („VLAN“)
 
 Whitelist – Leidžiamasis sąrašas
 
