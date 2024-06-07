@@ -180,6 +180,8 @@ Feed – Padavimas
 
 Feedback – Atsiliepimas/-ai
 
+Fiber to the X (FTTX) – Duomenų perdavimo šviesolaidiniu kabeliu technologija į/prie „x“ („FTTX“)
+
 Filesystem – Failų sistema
 
 Firewall – Užkarda (Komp./Tinklo); Ugniasienė (Ugnegesių gelbėtojų)
@@ -213,6 +215,8 @@ Grant – Duoti/Suteikti
 Ground – (Į)žeminimas+linksniai
 
 Guest – Svečias
+
+GPON – Gigabitinė šviesolaidinio prieigos tinklo technologija („GPON“)
 
 HDD – („HDD“) Kietasis diskas
 
@@ -317,6 +321,9 @@ Multiplayer – Daugiažaidėjė̄škā (Žemaičių k.)
 Mux – Tankintuvas
 
 Multicast – Daugiadresinis transliavimas
+
+Multiple Input Multiple Output (MIMO) – „Kelios įvestys, kelios išvestys“, tai technologija, kai belaidžiu/bevieliu ryšiu galima sudaryti daug
+lygiagrečių duomenų perdavimo ir priėmimo srautų („MIMO“/KĮKI)
 
 Name – Pavadinimas (Ne asmuo)
 
@@ -472,6 +479,8 @@ Settings – Nustatymai
 
 Setup – Sąranka
 
+Set-top Box (STB) – Išmaniosios televizijos priedėlis („STB“)
+
 Singleplayer – Vienžaidėjė̄škā (Žemaičių k.)
 
 Size – Dydis
@@ -513,6 +522,8 @@ Tag – Žyma
 Tagged – Pažymėtas
 
 Target – Taikomasis/-oji
+
+Transmission Control Protocol (TCP) – Duomenų perdavimo kontrolės protokolas („TCP“)
 
 Template – Šablonas
 
@@ -561,6 +572,8 @@ Unspecified – Nenustatyta/-s/-i
 Unsupported – Nepalaikoma/-s/-i
 
 Untagged – Nepažymėta/-s/-i
+
+Unshielded Twisted Pair (UTP) – Neekranuota vyta pora, varinis tinklo kabelis („UTP“)
 
 Update – Atnaujinti
 
