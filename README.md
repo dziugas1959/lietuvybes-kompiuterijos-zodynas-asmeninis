@@ -481,6 +481,8 @@ Setup – Sąranka
 
 Set-top Box (STB) – Išmaniosios televizijos priedėlis („STB“)
 
+Shielded Twisted Pair/-s (STP) – Ekranuota vyta pora/-os, varinis tinklo kabelis („STP“)
+
 Singleplayer – Vienžaidėjė̄škā (Žemaičių k.)
 
 Size – Dydis
@@ -573,7 +575,7 @@ Unsupported – Nepalaikoma/-s/-i
 
 Untagged – Nepažymėta/-s/-i
 
-Unshielded Twisted Pair (UTP) – Neekranuota vyta pora, varinis tinklo kabelis („UTP“)
+Unshielded Twisted Pair/-s (UTP) – Neekranuota vyta pora/-os, varinis tinklo kabelis („UTP“)
 
 Update – Atnaujinti
 
