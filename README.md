@@ -276,7 +276,7 @@ Label – Etiketė
 
 LAN – Vietinis tinklas („LAN“)
 
-Latency – Atsakas
+Latency – Delsà
 
 Latest – Naujausias/Paskiausias
 
