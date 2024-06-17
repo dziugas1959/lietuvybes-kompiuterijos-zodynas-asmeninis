@@ -66,6 +66,8 @@ Cache – Talpykla/Podėlis
 
 Capture – Užfiksuoti
 
+Card – Plokštė/Kortelė
+
 Chain – Grandinė
 
 Changes – Pakeitimai
@@ -355,6 +357,8 @@ Options – Parinktys
 
 Origin – Kilmė
 
+Originator – Pradininkas
+
 Output – Išvestis
 
 Override – Perkeisti (virš)
@@ -456,6 +460,8 @@ Revision – Poversijis
 Request – Prašymas
 
 Roaming – Klajojimas/Tarptinklis
+
+Route – Maršrutas
 
 Routed – Maršrutizuotas
 
@@ -589,6 +595,8 @@ Upload – Įkelti
 
 Upstream – Išsiunčiamas srautas
 
+Uptime – Veikimo metas
+
 URL – („URL“) Saitas
 
 Use – Naudoti
@@ -616,5 +624,7 @@ Virtual Local Area Network (VLAN) – Virtualùsis viẽtinis tiñklas („VLA
 Whitelist – Leidžiamasis sąrašas
 
 Wiki – Žinių aiškinamasis puslapis
+
+Willingness – Noras/Pasiryžimas
 
 Wireless – Belaidis/Bevielis
