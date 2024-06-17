@@ -389,6 +389,8 @@ Port – Prievadas
 
 Ports – Prievadai
 
+Pollrate – Apklausos dažnumas/intervalas
+
 Preference – Pageidavimas
 
 Prefix – Prielinksnis/Priešdėlis
