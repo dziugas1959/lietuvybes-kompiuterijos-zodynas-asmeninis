@@ -108,6 +108,8 @@ Dashboard – Ataskaitų skydelis
 
 Data – Data (Laik.)/Duomenys (Inf.)
 
+Datum – Datos atskaita/duomuo
+
 Deadline – Terminas
 
 Debug – Derinimas/Trukdžių šalinimas
@@ -118,9 +120,11 @@ Define – Apibrėžti
 
 Delay – Atidėti/-ėjimas
 
-Description – Aprašymas
+Description – Aprašas/-ymas
 
 Deselect – Atžymėti
+
+Detected – Aptiktas
 
 Destination – Paskirties/Kelionės tikslas
 
@@ -200,6 +204,10 @@ Folder – Aplankas/Aplankalas
 
 Forward – Tolyn/Persiųsti
 
+Frame – Kadras
+
+Frames – Kadrai
+
 Framework – Pagrindų sistema
 
 From – Iš
@@ -234,6 +242,8 @@ Hostname – Įrenginio (t.y skleidėjo/p.k – vedėjo) pavadinimas
 
 Hostnames – Įrenginių (t.y skleidėjų/p.k – vedėjų) pavadinimai
 
+Incoming – Gaunama/-s/-i
+
 ID – (ID) Identifikatorius
 
 Identity – Tapatybė
@@ -264,6 +274,8 @@ Intra – Tarp-(veiksmas kieno nors viduje)
 
 Invalid – Negalimas/-a/-i
 
+Inventory – Inventorius
+
 IP – (IP) Interneto protokolas
 
 IPv4 – (IPv4) Interneto protokolo versija 4
@@ -271,6 +283,8 @@ IPv4 – (IPv4) Interneto protokolo versija 4
 IPv6 – (IPv6) Interneto protokolo versija 6
 
 Is – Yra
+
+I/O (Input/Output) – Į/I (Įvestis/Išvestis) 
 
 Kick – Išmesti
 
@@ -300,6 +314,8 @@ Local Peer Discovery (LPD) – Vietinis lygiarangio atradimas („LPD“)
 
 Log – Žurnalas
 
+Machine – „Mašina“ – Įrenginys
+
 Make sure – Įsitikinkite
 
 Manager – Tvarkytuvas/-ė
@@ -313,6 +329,8 @@ Master – Valdytojas
 Merge – Suvienyti
 
 Mesh – Junglusis/Tankusis
+
+Metadata – Metadúomenys
 
 Mode – Režimas
 
@@ -334,6 +352,8 @@ Netmask – „Tinklo kaukė“
 Network – Tinklas
 
 Networking – Tinklavimas
+
+Neighbor – „Kaimynas (Protokolas/Tinkl.)“
 
 Node – Tinklo mazgas
 
@@ -358,6 +378,8 @@ Options – Parinktys
 Origin – Kilmė
 
 Originator – Pradininkas
+
+Outgoing – Išsiunčiama/-s/-i
 
 Output – Išvestis
 
@@ -517,6 +539,10 @@ Stop – Stabdyti
 
 Subnet – Potinklis
 
+Socket – Lizdas/Jungtis
+
+Subtype – Pótipis
+
 Summary – Santrauka/Suvestinė
 
 Suspend – Sulaikyti/Pristabdyti
@@ -619,6 +645,8 @@ VPN – („VPN“) Virtualus privatus tinklas
 
 WAN – („WAN“) Platusis tinklas
 
+Via – Per
+
 Virtual Local Area Network (VLAN) – Virtualùsis viẽtinis tiñklas („VLAN“)
 
 Whitelist – Leidžiamasis sąrašas
@@ -628,3 +656,5 @@ Wiki – Žinių aiškinamasis puslapis
 Willingness – Noras/Pasiryžimas
 
 Wireless – Belaidis/Bevielis
+
+Won't send – Nesiųs
