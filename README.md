@@ -579,6 +579,8 @@ Trace – Atsekamumas
 
 Traffic – Srautas
 
+Transmit – Perduoti/-a
+
 Transmission – Perdavimas
 
 Tuning – Derinimas (įrang.)
