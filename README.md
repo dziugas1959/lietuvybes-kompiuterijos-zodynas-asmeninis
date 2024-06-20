@@ -202,6 +202,8 @@ Flash (Action) – Įrašymas į įrangą
 
 Folder – Aplankas/Aplankalas
 
+For – , skirta (prieš žodį kablelis)
+
 Forward – Tolyn/Persiųsti
 
 Frame – Kadras
