@@ -511,6 +511,8 @@ Setup – Sąranka
 
 Set-top Box (STB) – Išmaniosios televizijos priedėlis („STB“)
 
+Session – Seansas
+
 Shielded Twisted Pair/-s (STP) – Ekranuota/-os vyta/-ų pora/-os, varinis tinklo kabelis („STP“)
 
 Singleplayer – Vienžaidėjė̄škā (Žemaičių k.)
