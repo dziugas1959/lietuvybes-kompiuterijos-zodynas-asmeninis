@@ -585,7 +585,7 @@ Tuning – Derinimas (įrang.)
 
 Tunneling – Tuneliavimas
 
-TX – Nusiųsta reaktyviai
+TX – Nusiųsta/Įkelta reaktyviai
 
 Unable – Nepavyko/Negalima
 
