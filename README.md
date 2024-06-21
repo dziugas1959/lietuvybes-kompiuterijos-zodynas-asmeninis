@@ -499,6 +499,12 @@ Schedule – Planuotojas/Tvarkaraštis
 
 Section – Skryius
 
+Seed – Tas failas/dalykas, kurį daliją/skleidžią
+
+Seeder – Dalytojas/Skleidėjas
+
+Seeding – Dalijimas/Skleidimas
+
 Selected – Parinktas/Pasirinktas
 
 Server – Serveris
