@@ -36,7 +36,7 @@ Array – Masyvas
 
 Assign – Priskirti
 
-Bandwidth – Duomenų siuntimo srauto pralaidumas
+Bandwidth – Duomenų siuntimo ir perdavimo srauto pralaidumas
 
 Battery – Baterija/Akumuliatorius
 
