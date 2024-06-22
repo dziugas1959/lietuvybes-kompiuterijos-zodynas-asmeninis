@@ -346,6 +346,8 @@ Modifications – Pakeitimai/Redagavimai
 
 Monitor – Prižiūryklė/-ėtojas; Monitorius; Stebėti/-oja/-a
 
+Mount – Įrengimas
+
 Multiplayer – Daugiažaidėjė̄škā (Žemaičių k.)
 
 Mux – Tankintuvas
@@ -636,6 +638,8 @@ Unspecified – Nenustatyta/-s/-i
 Unsupported – Nepalaikoma/-s/-i
 
 Untagged – Nepažymėta/-s/-i
+
+Unmount – Išrengimas (kart. Išstūmimas)
 
 Unshielded Twisted Pair/-s (UTP) – Neekranuota/-os vyta/-ų pora/-os, varinis tinklo kabelis („UTP“)
 
