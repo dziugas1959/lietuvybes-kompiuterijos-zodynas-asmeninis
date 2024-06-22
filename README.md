@@ -359,7 +359,7 @@ lygiagrečių duomenų perdavimo ir priėmimo srautų („MIMO“/KĮKI)
 
 Name – Pavadinimas (Ne asmuo)
 
-Netmask – „Tinklo kaukė“
+Netmask – Tinklavimo „net-kaukė“ – 32-bitų adresas, IP užmaskãvimas
 
 Network – Tinklas
 
