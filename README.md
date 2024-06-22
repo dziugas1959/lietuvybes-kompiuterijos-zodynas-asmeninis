@@ -599,7 +599,7 @@ Tunnel – „Tunelis“ – Tinklo protokolas, skirtas šifruoti/pereiti į kit
 
 Tunnelled – „Tuneliuotas“ – Praėjęs nuo vieno tinklo į kitą (protokolas).
 
-Tunneling – „Tuneliavimas“ – Procesas pereiti nup vieno tinklo į kitą (protokolas). 
+Tunneling – „Tuneliavimas“ – Procesas pereiti nuo vieno tinklo į kitą (protokolas). 
 
 TX – Nusiųsta/Įkelta reaktyviai
 
