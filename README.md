@@ -136,6 +136,8 @@ Disabled – Išjungta/Neįgalinta (-as/-i)
 
 Distributed Hash Table (DHT) – Išskirstyta maišos lentelė („DHT“)
 
+Directory – Katalogas/Vietovė
+
 Dynamic Host Configuration Protocol (DHCP) – Dinamiškas skleidėjo/p.k – vedėjo konfigūracijos protokolas („DHCP“)
 
 Desktop – Darbalaukis
@@ -330,6 +332,8 @@ Masquerading – Privataus IP į viešojo IP konvertavimas
 
 Master – Valdytojas
 
+Mask – Tinklavimo „kaukė“ – adresų segregatorius
+
 Merge – Suvienyti
 
 Mesh – Junglusis/Tankusis
@@ -337,6 +341,8 @@ Mesh – Junglusis/Tankusis
 Metadata – Metadúomenys
 
 Mode – Režimas
+
+Modifications – Pakeitimai/Redagavimai
 
 Monitor – Prižiūryklė/-ėtojas; Monitorius; Stebėti/-oja/-a
 
@@ -386,6 +392,8 @@ Originator – Pradininkas
 Outgoing – Išsiunčiama/-s/-i
 
 Output – Išvestis
+
+Other – Kita/-s/-i
 
 Override – Perkeisti (virš)
 
@@ -492,6 +500,8 @@ Route – Maršrutas
 Routed – Maršrutizuotas
 
 Routing – Kelvada
+
+Rotate – (Prieš) Atsinaujinti/Pakeisti.
 
 Run – Vykdyti
 
