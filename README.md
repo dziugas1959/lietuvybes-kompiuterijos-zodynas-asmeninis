@@ -156,6 +156,8 @@ Enabled – Įjungta/Įgalinta
 
 Enables – Įjungia/Įgalina
 
+Encapsulation – Tinklo „kapsuliãvimas“ (paketai) 
+
 Encrypted – Užšifruota
 
 Encryption – Šifravimas
@@ -593,7 +595,11 @@ Transmission – Perdavimas
 
 Tuning – Derinimas (įrang.)
 
-Tunneling – Tuneliavimas
+Tunnel – „Tunelis“ – Tinklo protokolas, skirtas šifruoti/pereiti į kitą tinklą. 
+
+Tunnelled – „Tuneliuotas“ – Praėjęs nuo vieno tinklo į kitą (protokolas).
+
+Tunneling – „Tuneliavimas“ – Procesas pereiti nup vieno tinklo į kitą (protokolas). 
 
 TX – Nusiųsta/Įkelta reaktyviai
 
