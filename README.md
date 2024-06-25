@@ -154,7 +154,7 @@ Egress – Išėjimas
 
 Enable – Įjungti/Įgalinti
 
-Enabled – Įjungta/Įgalinta
+Enabled – Įjungta/Įgalinta (-as/-i)
 
 Enables – Įjungia/Įgalina
 
