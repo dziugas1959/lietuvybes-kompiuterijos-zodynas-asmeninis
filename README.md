@@ -272,6 +272,10 @@ Instance – Egzempliorius
 
 Instances – Egzemplioriai
 
+Install – Įdi̇́egti
+
+Installed – Įdiegta/-s/-os \ Įdiegti̇̀.
+
 Interface – Sąsaja ir/arba Sietuvas
 
 Interfaces – Sąsajos ir sietuvai
@@ -406,6 +410,8 @@ Package – Prog. įrang. paketas
 Packet – (Duomenų) Paketas
 
 Page – Puslapis
+
+Parent Control – Tėvų kontrolė/valdymas
 
 Parity – Suvienodėjimas
 
@@ -555,7 +561,7 @@ Specifies – Nurodo
 
 Standard – Tipinis/Standartas
 
-Start – Paleisti
+Start – Paleisti/Pradėti
 
 Status – Būklė/Būsena
 
@@ -582,6 +588,8 @@ Tag – Žyma
 Tagged – Pažymėtas
 
 Target – Taikomasis/-oji
+
+Tasks – Užduotys/Veiksmai
 
 Transmission Control Protocol (TCP) – Duomenų perdavimo kontrolės protokolas („TCP“)
 
@@ -630,6 +638,10 @@ Unit – Vienetas
 Unknown – Nežinoma/-s/-i
 
 Unnamed – Nepavadinta/-s/-i
+
+Uninstall – Išdi̇́egti
+
+Uninstalled – Išdiegta/-s/-os \ Išdiegti̇̀.
 
 Unsaved – Neišsaugota/-s/-i
 
