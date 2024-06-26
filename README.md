@@ -533,6 +533,8 @@ Server – Serveris
 
 Service – Tarnyba
 
+Serial – Nuoseklusis/-ioji
+
 Set – Rinkinys/Nustatyti
 
 Settings – Nustatymai
