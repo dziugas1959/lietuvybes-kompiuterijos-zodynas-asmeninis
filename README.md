@@ -78,6 +78,8 @@ Cipher – Šifras
 
 Compressed – Suspaustas/Suglaudintas
 
+Concatenate – Surišti/Sujungti
+
 Configuration – Konfigūracija
 
 Confirm – Patvirtinti
