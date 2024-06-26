@@ -561,6 +561,8 @@ Specifies – Nurodo
 
 Standard – Tipinis/Standartas
 
+Static – Nekintama/-s/-i
+
 Start – Paleisti/Pradėti
 
 Status – Būklė/Būsena
