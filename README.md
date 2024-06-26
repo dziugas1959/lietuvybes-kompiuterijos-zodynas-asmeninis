@@ -491,6 +491,8 @@ Reload – Perleidimas/-sti
 
 Report – Atskaita (žurn.); Pranešti (veiks.)
 
+Repeater – Kartotùvas/-ė
+
 Required – Reikalinga/-s
 
 Reset – Grąžinti į pradinę padėti ar būsena** (Sinonimiškai tinka abiems)
