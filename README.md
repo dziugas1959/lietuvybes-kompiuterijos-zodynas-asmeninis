@@ -1,4 +1,4 @@
-# Lietuvybės kompiuterijos ir tinklavimo žodynas (Asmeninis, įskaitant neegzistuojančius)
+# Lietuvybės; kompiuterijos ir tinklavimo žodynas (Asmeninis, įskaitant neegzistuojančius)
 
 Sveiki,
 
