@@ -575,6 +575,8 @@ Status – Būklė/Būsena
 
 Stop – Stabdyti
 
+SSD – („SSD“) Standusis diskas
+
 Subnet – Potinklis
 
 Socket – Lizdas/Jungtis
