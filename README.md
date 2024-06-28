@@ -531,7 +531,7 @@ Seeder – Dalytojas/Skleidėjas
 
 Seeding – Dalijimas/Skleidimas
 
-Selected – Parinktas/Pasirinktas
+Selected – Pa(si)rinkta/-s/-i
 
 Server – Serveris
 
