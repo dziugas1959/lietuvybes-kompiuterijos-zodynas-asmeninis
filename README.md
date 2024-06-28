@@ -491,7 +491,7 @@ Relevant – Aktualus/Reikšmingas
 
 Reload – Perleidimas/-sti
 
-Report – Atskaita (žurn.); Pranešti (veiks.)
+Report – At(a)skaita (žurn.); Pranešti (veiks.)
 
 Repeater – Kartotùvas/-ė
 
