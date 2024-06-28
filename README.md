@@ -132,7 +132,7 @@ Destination – Paskirties/Kelionės tikslas
 
 Details – Išsamesnė informacija
 
-Disable – Išjungti
+Disable – Išjungti/Išgalinti
 
 Disabled – Išjungta/Neįgalinta (-as/-i)
 
