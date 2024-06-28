@@ -687,7 +687,7 @@ Used – Naudojama/-s/-i
 
 User – Naudotojas/Vartotojas
 
-Username – Slapyvardis/Vartotojo/Naudotojo vardas
+Username – Naudotojo/Vartotojo vardas (t.y. Slapyvardis)
 
 Valid – Tinkama/-s
 
