@@ -178,6 +178,8 @@ Established – Įtvirtinta
 
 Extended Service Set Identifier (ESSID) – Išplėstas tarnybų rinkinio identifikatorius („ESSID“)
 
+Extender – Plėtiklis/Plėstuvas
+
 Ethernet – „Eternetas“
 
 Exceed – Viršyti
