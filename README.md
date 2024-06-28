@@ -609,6 +609,8 @@ Template – Šablonas
 
 Termination – Sustabdymas
 
+Theme – Apipavidalinimas
+
 Threshold – Slenkstis
 
 Timeout – Pasibaigė užklausos laikas
