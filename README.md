@@ -252,6 +252,8 @@ Hostname – Įrenginio (t.y skleidėjo/p.k – vedėjo) pavadinimas
 
 Hostnames – Įrenginių (t.y skleidėjų/p.k – vedėjų) pavadinimai
 
+Hooking – Agentavimas/Įsiterpimas (-o būdas)
+
 Incoming – Gaunama/-s/-i
 
 ID – (ID) Identifikatorius
