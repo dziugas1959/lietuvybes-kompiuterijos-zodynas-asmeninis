@@ -64,6 +64,8 @@ Bus – (Tinklo) Magistralė/Autobusas
 
 Bypass – Apėjimas/-eiti
 
+Cable – Lai̇̃das
+
 Cache – Talpykla/Podėlis
 
 Capture – Užfiksuoti
@@ -629,6 +631,8 @@ Timeout – Pasibaigė užklausos laikas
 
 Token – Žetonas
 
+Topic – Tematika
+
 to use – kurią naudoti
 
 Trace – Atsekamumas
@@ -724,6 +728,8 @@ WAN – („WAN“) Platusis tinklas
 Via – Per
 
 Virtual Local Area Network (VLAN) – Virtualùsis viẽtinis tiñklas („VLAN“)
+
+Wearable – Dėvimasis
 
 Whitelist – Leidžiamasis sąrašas
 
