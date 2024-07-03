@@ -611,6 +611,8 @@ Template – Šablonas
 
 Termination – Sustabdymas
 
+Tethering – Saitvietė (jos veikimas) 
+
 Theme – Apipavidalinimas
 
 Threshold – Slenkstis
