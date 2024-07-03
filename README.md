@@ -36,6 +36,8 @@ Array – Masyvas
 
 Assign – Priskirti
 
+Based – Pagal/Remiantis
+
 Bandwidth – Duomenų siuntimo ir perdavimo srauto pralaidumas
 
 Battery – Baterija/Akumuliatorius
@@ -80,6 +82,8 @@ Compressed – Suspaustas/Suglaudintas
 
 Concatenate – Surišti/Sujungti
 
+Condition – Padėtis/Sąlyga
+
 Configuration – Konfigūracija
 
 Confirm – Patvirtinti
@@ -93,6 +97,8 @@ Contact – Kontaktas/Adresatas
 Content – Turinys
 
 Controller – Valdiklis
+
+Connected – Pri(si)jungta
 
 Corresponding – Atitinkamus
 
@@ -173,6 +179,8 @@ Enforce – Įsteigti
 Entries – Gal. įvestis/Var. įvestis (-ys) 
 
 Error – Klaida
+
+Eject – Išstùmti
 
 Established – Įtvirtinta
 
@@ -667,6 +675,8 @@ Unspecified – Nenustatyta/-s/-i
 
 Unsupported – Nepalaikoma/-s/-i
 
+Unusable – Nenaudojama/Nevartojama (-s/-ina/-inas)
+
 Untagged – Nepažymėta/-s/-i
 
 Unmount – Išrengimas (kart. Išstūmimas)
@@ -687,6 +697,8 @@ Uptime – Veikimo metas
 
 URL – („URL“) Saitas
 
+Usable – Naudojama/Vartojama (-s/-ina/-inas)
+
 Use – Naudoti
 
 Used – Naudojama/-s/-i
@@ -695,7 +707,9 @@ User – Naudotojas/Vartotojas
 
 Username – Naudotojo/Vartotojo vardas (t.y. Slapyvardis)
 
-Valid – Tinkama/-s
+Valid – Galiojanti/Tinkama (-s)
+
+Validyti – Galiojimas/Tikrùmas
 
 Vendor – Pardavėjas
 
