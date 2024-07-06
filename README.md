@@ -427,7 +427,7 @@ Packet – (Duomenų) Paketas
 
 Page – Puslapis
 
-Parent Control – Tėvų kontrolė/valdymas
+Parental Control – Tėvų kontrolė/valdymas
 
 Parity – Suvienodėjimas
 
