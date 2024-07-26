@@ -493,6 +493,8 @@ Realm – Valda/Sritis
 
 Records – Įrašai
 
+Redistributable – Įterptinis taikomasis komponentas
+
 Reference – Išnaša/Pamatinis
 
 References – Išnašos/Pamatiniai?
@@ -530,6 +532,8 @@ Routing – Kelvada
 Rotate – (Prieš) Atsinaujinti/Pakeisti.
 
 Run – Vykdyti
+
+Runtime (environment) – Vykdantysis (-čioji aplinka)
 
 RX – Atsiųsta/Gauta reaktyviai
 
