@@ -631,6 +631,8 @@ Theme – Apipavidalinimas
 
 Threshold – Slenkstis
 
+Throughput – Pralaidumas (jo galimybės; t.y. našumas)
+
 Timeout – Pasibaigė užklausos laikas
 
 Token – Žetonas
