@@ -10,7 +10,7 @@ Visas žodynas remiasi nuo anglų į lietuvių (galimai ne pagal abėcėlę).
 
 Anglų – Lietuvių:
 
-Accesss – Prieiga
+Access – Prieiga
 
 Access point (AP) – Prieigos taškas (PT)
 
