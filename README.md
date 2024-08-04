@@ -72,11 +72,17 @@ Capture – Užfiksuoti
 
 Card – Plokštė/Kortelė
 
+Carrier – Ryšio operatorius
+
 Chain – Grandinė
 
 Changes – Pakeitimai
 
 Checksum – Kontrolinė patikros suma
+
+Chip – Lustas
+
+Chipset – Lustyýnas
 
 Cipher – Šifras
 
@@ -100,6 +106,8 @@ Content – Turinys
 
 Controller – Valdiklis
 
+Continue – Tęsti
+
 Connected – Pri(si)jungta
 
 Corresponding – Atitinkamus
@@ -111,6 +119,8 @@ Critical – Kritinė/-is
 Close – Uždaryti
 
 Custom – Pasirinktinis (/-ė/-iai/-į)
+
+Customize – Tinkinti
 
 Daemon – Paslaugų teikimo sistema
 
@@ -264,7 +274,7 @@ Hostnames – Įrenginių (t.y skleidėjų/p.k – vedėjų) pavadinimai
 
 Hooking – Agentavimas/Įsiterpimas (-o būdas)   Tiesiog įsiterpimas ar agentavimas į programą, tipiškai derinimo tikslams ar įsilaužimui.
 
-Incoming – Gaunama/-s/-i
+Icon – Piktograma
 
 ID – (ID) Identifikatorius
 
@@ -275,6 +285,8 @@ Idle – Budi/Budėjimas (būsena)
 Image – Laikmena
 
 In – Randamas (Ats. Kur?)
+
+Incoming – Gaunama/-s/-i
 
 Inbound – Įeinantis
 
@@ -290,11 +302,15 @@ Instances – Egzemplioriai
 
 Install – Įdi̇́egti
 
+Installer – Įdiegiklis/-ė
+
 Installed – Įdiegta/-s/-os \ Įdiegti̇̀.
 
 Interface – Sąsaja ir/arba Sietuvas
 
 Interfaces – Sąsajos ir sietuvai
+
+Integrity – Vientisumas
 
 Intra – Tarp-(veiksmas kieno nors viduje)
 
@@ -367,6 +383,8 @@ Modifications – Pakeitimai/Redagavimai
 Monitor – Prižiūryklė/-ėtojas; Monitorius; Stebėti/-oja/-a
 
 Mount – Įrengimas
+
+Microchip – Mikroschema
 
 Multiplayer – Daugiažaidėjė̄škā (Žemaičių k.)
 
@@ -471,6 +489,8 @@ Provider – Teikėjas (paslaugos); Tiekėjas (prekės)
 
 Proxy – Įgaliotas/-ai
 
+Publisher – Leidė́jas
+
 Queries – Užklausos
 
 Quering – Užklausoma/-i
@@ -537,6 +557,8 @@ Runtime (environment) – Vykdantysis (-čioji aplinka)
 
 RX – Atsiųsta/Gauta reaktyviai
 
+Save – Išsaugoti
+
 Schedule – Planuotojas/Tvarkaraštis
 
 Section – Skryius
@@ -574,6 +596,8 @@ Size – Dydis
 Slave – Valdomasis
 
 Slaves – Valdomieji
+
+Skip – Praleisti
 
 Snooping – Vientisinio adresinio sluoksnio protokolas – „Snooping“
 
@@ -677,6 +701,8 @@ Unnamed – Nepavadinta/-s/-i
 
 Uninstall – Išdi̇́egti
 
+Uninstaller – Išdiegiklis/-ė
+
 Uninstalled – Išdiegta/-s/-os \ Išdiegti̇̀.
 
 Unsaved – Neišsaugota/-s/-i
@@ -729,11 +755,13 @@ Verify – Patvirtinti/Patikrinti
 
 VPN – („VPN“) Virtualus privatus tinklas
 
-WAN – („WAN“) Platusis tinklas
-
 Via – Per
 
 Virtual Local Area Network (VLAN) – Virtualùsis viẽtinis tiñklas („VLAN“)
+
+Warning – Įspėjimas
+
+WAN – („WAN“) Platusis tinklas
 
 Wearable – Dėvimasis
 
@@ -746,3 +774,10 @@ Willingness – Noras/Pasiryžimas
 Wireless – Belaidis/Bevielis
 
 Won't send – Nesiųs
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Unikalumai/Pastabos/Užrašai: Yra tam tikrų pritaikomųjų vartojimų, kurie palei viską, gan neaiškiai kaitaliojami.
+Neužmirškite, kad įmonės ar produktų pavadinimai rašomi su lietuviškom kabutėm – „“, angliško standarto priimti trumpiniai, kurie neatitinka lietuviškumui irgi rašomi su kabutėmis.
+Pvz.: IP rašome be kabučių, nes jis analogiškas IP – Interneto Protokolas, o „VPN“ ne, nes angliškasis atitikmuo – „Network“ išsiverčia į – „Tinklas“.
+Dažnai, lietuvių kalboje tinkamos vartoti vyr. g. ir mot. g., todėl „tvarkytuvas“ ir „tvarkytuvė“ yra teisingos reikšmės, tačiau gali skirtis, jeigu prieštarauja kalbos taisyklėm.
+* Atnaujinimas/Atnaujinimai/Atnaujinimų su Naujinys/Naujiniai/Naujinių.
+* Aplankas/Aplankai/Aplanke su Aplankalas/Aplankalai/Aplankale.
