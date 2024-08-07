@@ -266,11 +266,11 @@ Hibernation – Žiemojimas/Įrašų migdymas
 
 Hypertext Transfer Protocol Secure (HTTPS) – Saugus hipertekstų siuntimo protokolas („HTTPS“)
 
-Host – Skleidėjas/P.k – vėdėjas *P.k – Pagrindinis kompiuteris+linksnis
+Host – Skleidėjas/Vėdėjas
 
-Hostname – Įrenginio (t.y skleidėjo/p.k – vedėjo) pavadinimas
+Hostname – Įrenginio (t.y skleidėjo/vedėjo) pavadinimas
 
-Hostnames – Įrenginių (t.y skleidėjų/p.k – vedėjų) pavadinimai
+Hostnames – Įrenginių (t.y skleidėjų/vedėjų) pavadinimai
 
 Hooking – Agentavimas/Įsiterpimas (-o būdas)   Tiesiog įsiterpimas ar agentavimas į programą, tipiškai derinimo tikslams ar įsilaužimui.
 
