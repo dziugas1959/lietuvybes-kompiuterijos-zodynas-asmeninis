@@ -36,6 +36,8 @@ Array – Masyvas
 
 Assign – Priskirti
 
+Backend – Vidinė uždaroji sąsaja
+
 Based – Pagal/Remiantis
 
 Bandwidth – Duomenų siuntimo ir perdavimo srauto pralaidumas
@@ -241,6 +243,8 @@ Frames – Kadrai
 Framework – Pagrindų sistema
 
 From – Iš
+
+Frontend – Vidinė atviroji sąsaja
 
 Gateway – Tinklo tarpuvartė
 
