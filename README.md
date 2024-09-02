@@ -36,6 +36,8 @@ Array – Masyvas
 
 Assign – Priskirti
 
+AI – DI (Dirbtinis intelektas)
+
 Backend – Vidinė uždaroji sąsaja
 
 Based – Pagal/Remiantis
@@ -165,6 +167,8 @@ Dynamic Host Configuration Protocol (DHCP) – Dinamiškas skleidėjo/p.k – ve
 Desktop – Darbalaukis
 
 Domain – Domenas-Sritis
+
+DOI – Skaitmeninio objekto identifikatorius
 
 Downgrade – Aukštutinis versijos/programos/įrangos į senesnę sugrąžinimas
 
@@ -491,7 +495,7 @@ Processing – Aprodojimas/-ama
 
 Provider – Teikėjas (paslaugos); Tiekėjas (prekės)
 
-Proxy – Įgaliotas/-ai
+Proxy – Įgaliotas/-ai/-asis
 
 Publisher – Leidė́jas
 
@@ -500,6 +504,8 @@ Queries – Užklausos
 Quering – Užklausoma/-i
 
 Query – Užklausa
+
+OID – Objektų atributikos identifikatorius
 
 Random – Atsitiktinis
 
@@ -783,5 +789,7 @@ Unikalumai/Pastabos/Užrašai: Yra tam tikrų pritaikomųjų vartojimų, kurie p
 Neužmirškite, kad įmonės ar produktų pavadinimai rašomi su lietuviškom kabutėm – „“, angliško standarto priimti trumpiniai, kurie neatitinka lietuviškumui irgi rašomi su kabutėmis.
 Pvz.: IP rašome be kabučių, nes jis analogiškas IP – Interneto Protokolas, o „VPN“ ne, nes angliškasis atitikmuo – „Network“ išsiverčia į – „Tinklas“.
 Dažnai, lietuvių kalboje tinkamos vartoti vyr. g. ir mot. g., todėl „tvarkytuvas“ ir „tvarkytuvė“ yra teisingos reikšmės, tačiau gali skirtis, jeigu prieštarauja kalbos taisyklėm.
-* Atnaujinimas/Atnaujinimai/Atnaujinimų su Naujinys/Naujiniai/Naujinių.
-* Aplankas/Aplankai/Aplanke su Aplankalas/Aplankalai/Aplankale.
+* Atnaujinimas/Atnaujinimai/Atnaujinimų su Naujinys/Naujiniai/Naujinių.				(Tipiškai atskiria kompiuterinius ir mobiliuosius)
+* Aplankas/Aplankai/Aplanke su Aplankalas/Aplankalai/Aplankale.					(Tipiškai atskiria... nežinau 🤷‍♂️ )
+* Baterija/Baterijos/Baterijoje su Akumuliatorius/Akumuliatoriai/Akumuliatoriuje.		(Tipiškai atskiria įkraunamus ir iškraunamus)
+* Programa/Programos/Programoje su Programėlė/Programėlės/Programėlėse.  			(Tipiškai atskiria kompiuterines ir mobiliąsiąs)
