@@ -116,6 +116,8 @@ Connected – Pri(si)jungta
 
 Corresponding – Atitinkamus
 
+Coupler/Network Hub – Šakotùvas
+
 Credential – Kredencialas (Remiantis ES dokumentais)
 
 Critical – Kritinė/-is
