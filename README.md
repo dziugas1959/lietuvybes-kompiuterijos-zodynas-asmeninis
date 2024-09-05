@@ -286,7 +286,7 @@ Hostname – Įrenginio (t.y skleidėjo/vedėjo) pavadinimas
 
 Hostnames – Įrenginių (t.y skleidėjų/vedėjų) pavadinimai
 
-Hooking – Agentavimas/Įsiterpimas (-o būdas)   Tiesiog įsiterpimas ar agentavimas į programą, tipiškai derinimo tikslams ar įsilaužimui.
+Hooking – Agentavimas/Įsiterpimas (-o būdas); [Tiesiog įsiterpimas ar agentavimas į programą, tipiškai derinimo tikslams ar įsilaužimui].
 
 Icon – Piktograma
 
