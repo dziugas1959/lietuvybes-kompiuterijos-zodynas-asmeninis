@@ -86,7 +86,7 @@ Checksum – Kontrolinė patikros suma
 
 Chip – Lustas
 
-Chipset – Lustyýnas
+Chipset – Lustýnas
 
 Cipher – Šifras
 
