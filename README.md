@@ -116,7 +116,7 @@ Connected – Pri(si)jungta
 
 Corresponding – Atitinkamus
 
-Coupler/Network Hub – Šakotùvas
+Coupler – Šakotùvas (Energija)
 
 Credential – Kredencialas (Remiantis ES dokumentais)
 
@@ -167,6 +167,8 @@ Directory – Katalogas/Vietovė
 Dynamic Host Configuration Protocol (DHCP) – Dinamiškas skleidėjo/p.k – vedėjo konfigūracijos protokolas („DHCP“)
 
 Desktop – Darbalaukis
+
+Dock – Jungčių stotelė
 
 Domain – Domenas-Sritis
 
@@ -275,6 +277,8 @@ Helper – Pagelbiklis (įrankis); Pagalbininkas/-ė (asmuo)
 Hibernation – Žiemojimas/Įrašų migdymas
 
 Hypertext Transfer Protocol Secure (HTTPS) – Saugus hipertekstų siuntimo protokolas („HTTPS“)
+
+Hub – Šakotùvas/Telktùvas (Išskaidymas/Sujungimas)
 
 Host – Skleidėjas/Vėdėjas
 
