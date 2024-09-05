@@ -1,4 +1,4 @@
-# Lietuvybės; kompiuterijos ir tinklavimo žodynas (Asmeninis, įskaitant neegzistuojančius)
+# Lietuvybės; kompiuterijos ir tinklavimo žodynas (Asmeninis, įskaitant neegzistuojančius ir įvairias naujoves)
 
 Sveiki,
 
@@ -790,6 +790,7 @@ Willingness – Noras/Pasiryžimas
 Wireless – Belaidis/Bevielis
 
 Won't send – Nesiųs
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Unikalumai/Pastabos/Užrašai: Yra tam tikrų pritaikomųjų vartojimų, kurie palei viską, gan neaiškiai kaitaliojami.
 Neužmirškite, kad įmonės ar produktų pavadinimai rašomi su lietuviškom kabutėm – „“, angliško standarto priimti trumpiniai, kurie neatitinka lietuviškumui irgi rašomi su kabutėmis.
