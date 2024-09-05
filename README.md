@@ -705,6 +705,8 @@ Unavailable – Nepasiekiama
 
 Unbound – Nesaistomas
 
+Underlying – Esminis/Posluoksnis
+
 Undefined – Neapibrėžta/-s
 
 Undone – Anuliuota/-s
