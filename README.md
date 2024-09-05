@@ -164,7 +164,7 @@ Distributed Hash Table (DHT) – Išskirstyta maišos lentelė („DHT“)
 
 Directory – Katalogas/Vietovė
 
-Dynamic Host Configuration Protocol (DHCP) – Dinamiškas skleidėjo/p.k – vedėjo konfigūracijos protokolas („DHCP“)
+Dynamic Host Configuration Protocol (DHCP) – Dinamiškas skleidėjo/vedėjo konfigūracijos protokolas („DHCP“)
 
 Desktop – Darbalaukis
 
