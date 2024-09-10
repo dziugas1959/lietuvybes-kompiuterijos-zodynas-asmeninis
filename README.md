@@ -781,6 +781,8 @@ User – Naudotojas/Vartotojas
 
 Username – Naudotojo/Vartotojo vardas (t.y. Slapyvardis)
 
+Variable – Kintamasis/-oji
+
 Valid – Galiojanti/Tinkama (-s)
 
 Validyti – Galiojimas/Tikrùmas
