@@ -74,6 +74,8 @@ Cache – Talpykla/Podėlis
 
 Capture – Užfiksuoti
 
+Captive Portas – Périmančios pri̇̀eigos pagal̃ pãskirtį portãlas
+
 Card – Plokštė/Kortelė
 
 Carrier – Ryšio operatorius
@@ -87,6 +89,8 @@ Checksum – Kontrolinė patikros suma
 Chip – Lustas
 
 Chipset – Lustýnas
+
+CGI (Networking) – Tipinė tinklo tarpuvartės; kompiuterijos sąsaja
 
 Cipher – Šifras
 
@@ -366,6 +370,8 @@ Listening – Laukia prisijungimo/jungties ryšio (stebi užklausas ir pasiruoš
 
 Load – Įkelti/Apkrova
 
+Local – Vietinis
+
 Local Peer Discovery (LPD) – Vietinis lygiarangio atradimas („LPD“)
 
 Log – Žurnalas
@@ -529,11 +535,17 @@ Realm – Valda/Sritis
 
 Records – Įrašai
 
+Recognizes – Atpažįsta
+
+Recurse – Rekursija
+
 Redistributable – Įterptinis taikomasis komponentas
 
 Reference – Išnaša/Pamatinis
 
 References – Išnašos/Pamatiniai?
+
+Regular expression (regex) – Reguliarùsis reiškinỹs
 
 Relay – Retransliuoti/Perduoti/Perdavimas
 
@@ -555,7 +567,7 @@ Restore – Atkurti/Atstatyti (-ymas)** (Sinonimiškai tinka abiems)
 
 Revision – Poversijis
 
-Request – Prašymas
+Request – Prašymas/Užklausa 
 
 Roaming – Klajojimas/Tarptinklis
 
@@ -576,6 +588,10 @@ RX – Atsiųsta/Gauta reaktyviai
 Save – Išsaugoti
 
 Schedule – Planuotojas/Tvarkaraštis
+
+Search – (Pa)ieška
+
+Search engine – Ieškỹklė
 
 Section – Skryius
 
@@ -608,6 +624,8 @@ Shielded Twisted Pair/-s (STP) – Ekranuota/-os vyta/-ų pora/-os, varinis tink
 Singleplayer – Vienžaidėjė̄škā (Žemaičių k.)
 
 Size – Dydis
+
+Syntax – Sintaksė
 
 Slave – Valdomasis
 
@@ -747,6 +765,8 @@ Upload – Įkelti
 
 Upstream – Išsiunčiamas srautas
 
+UPS – Nenutrūkstamas/-o maitinimo šaltinis
+
 Uptime – Veikimo metas
 
 URL – („URL“) Saitas
@@ -790,6 +810,8 @@ Wiki – Žinių aiškinamasis puslapis
 Willingness – Noras/Pasiryžimas
 
 Wireless – Belaidis/Bevielis
+
+Wizard – Vedi̇̀klis
 
 Won't send – Nesiųs
 
