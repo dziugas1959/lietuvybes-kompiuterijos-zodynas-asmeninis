@@ -653,6 +653,8 @@ Stop – Stabdyti
 
 SSD – („SSD“) Standusis diskas
 
+Spam – Brukalas
+
 Subnet – Potinklis
 
 Socket – Lizdas/Jungtis
@@ -817,8 +819,45 @@ Wizard – Vedi̇̀klis
 
 Won't send – Nesiųs
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Prestižinė kalba
+
+Remdamas – „Leksika: Skolinių vartojimas (Leksikos skolinių sąrašas ir Senųjų svetimybių sąrašas)“, stengiamas naudoti terminus, kurie atitinka prestižinėj kalbai. Šis sąrašas telkiamas tuom, kad jis yra remiamas Valstybinės lietuvių kalbos komisijos, Mokslo ir enciklopedijų leidybos centro ir Lietuvių kalbos instituto. Bus teikiami terminai kurie neturi atskiros reikšmės (šiuo atveju anglų k.) ir sudaro tokią pačią mintį/apibrėžimą; kaip ir pakeičiama skolininė/svetimybė/tarptautinė/hibridinė/nenorminė sąvoka. Šie/-os terminai/sąvokos turi atsispindėti žodynuose, kurie juos apibrėžia (pagal raštija.lt). Tai pat teikiama išimtis logiškumui ir prasmei (pvz.: žodis „meniu“ → „valgiaraštis“ nebus teikiamas, nes pažeidžia žodžio prasmę kompiuterijoje).
+
+Adaptyvus/-i – Prisitaikanti/-s
+
+Charakteris – Rašmuo
+
+Distribucija – Paskirstymas
+
+Fiksuoti – Įtvirtinti
+
+Fiksuota/-s – Įtvirtinta/-s
+
+Fiksuotasis/-oji – Įtvirtintasis/-oji
+
+Fragmentas – Nuotrupa
+
+Unikalus/-i – Išskirtinis/-ė
+
+Procesas – Vỹksmas
+
+Specifika – Savitumas
+
+Specifinis/-ė – Savita/-s
+
+Reitingas – Įvertis
+
+Progresas – Pažanga
+
+Prioritetas – Pirmenýbė
+
+Momentas – Akimirka/Akimirksniu
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Unikalumai/Pastabos/Užrašai: Yra tam tikrų pritaikomųjų vartojimų, kurie palei viską, gan neaiškiai kaitaliojami.
+
 Neužmirškite, kad įmonės ar produktų pavadinimai rašomi su lietuviškom kabutėm – „“, angliško standarto priimti trumpiniai, kurie neatitinka lietuviškumui irgi rašomi su kabutėmis.
 Pvz.: IP rašome be kabučių, nes jis analogiškas IP – Interneto Protokolas, o „VPN“ ne, nes angliškasis atitikmuo – „Network“ išsiverčia į – „Tinklas“.
 Dažnai, lietuvių kalboje tinkamos vartoti vyr. g. ir mot. g., todėl „tvarkytuvas“ ir „tvarkytuvė“ yra teisingos reikšmės, tačiau gali skirtis, jeigu prieštarauja kalbos taisyklėm.
