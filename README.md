@@ -396,7 +396,7 @@ Mesh – Junglusis/Tankusis
 
 Metadata – Metadúomenys
 
-Mode – Režimas
+Mode – Veiksena/ (Politinė reikšmė): Režimas
 
 Modifications – Pakeitimai/Redagavimai
 
@@ -605,7 +605,7 @@ Selected – Pa(si)rinkta/-s/-i
 
 Server – Serveris
 
-Service – Tarnyba
+Service – Tarnyba/Paslauga
 
 Serial – Nuoseklusis/-ioji
 
