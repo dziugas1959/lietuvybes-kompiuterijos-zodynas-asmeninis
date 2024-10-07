@@ -595,7 +595,7 @@ Search engine – Ieškỹklė
 
 Section – Skryius
 
-Seed – Tas failas/dalykas, kurį daliją/skleidžią
+Seed – *Tas* dalykas (t.y. failas/archyvas ar pan.), kurį daliją/skleidžią
 
 Seeder – Dalytojas/Skleidėjas
 
