@@ -254,6 +254,8 @@ Frame – Kadras
 
 Frames – Kadrai
 
+Frameless – Berėmis
+
 Framework – Pagrindų sistema
 
 From – Iš
