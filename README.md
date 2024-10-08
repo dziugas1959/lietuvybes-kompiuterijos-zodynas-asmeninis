@@ -36,6 +36,8 @@ Array – Masyvas
 
 Assign – Priskirti
 
+Aspect ratio – Proporcija
+
 AI – DI (Dirbtinis intelektas)
 
 Backend – Vidinė uždaroji sąsaja
@@ -563,6 +565,8 @@ Reset – Grąžinti į pradinę padėti ar būsena** (Sinonimiškai tinka abiem
 
 Resolver – Sprendiklis
 
+Resolution – Skiriamoji geba
+
 Restore – Atkurti/Atstatyti (-ymas)** (Sinonimiškai tinka abiems)
 
 Revision – Poversijis
@@ -808,6 +812,8 @@ WAN – („WAN“) Platusis tinklas
 Wearable – Dėvimasis
 
 Whitelist – Leidžiamasis sąrašas
+
+Wrapper – Įvynioklis
 
 Wiki – Žinių aiškinamasis puslapis
 
