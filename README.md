@@ -306,7 +306,7 @@ In – Randamas (Ats. Kur?)
 
 Incoming – Gaunama/-s/-i
 
-Inbound – Įeinantis
+Inbound – Atvykstanti/-s/-ys/-čios
 
 Ingress – Įėjimas
 
