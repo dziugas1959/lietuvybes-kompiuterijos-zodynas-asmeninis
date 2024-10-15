@@ -26,6 +26,8 @@ Advanced Settings – Pažangūs nustatymai
 
 Alert – Įspėti
 
+Alternative – Pakaitalas/-inis (-ė)
+
 Always – Visada
 
 Announcement – Paskelbimas
@@ -133,6 +135,8 @@ Close – Uždaryti
 Custom – Pasirinktinis (/-ė/-iai/-į)
 
 Customize – Tinkinti
+
+CPU – Centrinis apdorojantis vienetas („CPU“)
 
 Daemon – Paslaugų teikimo sistema
 
@@ -278,6 +282,8 @@ Guest – Svečias
 
 GPON – Gigabitinė šviesolaidinio prieigos tinklo technologija („GPON“)
 
+GPU – Grafinis apdorojantis vienetas („GPU“)
+
 HDD – („HDD“) Kietasis diskas
 
 Helper – Pagelbiklis (įrankis); Pagalbininkas/-ė (asmuo)
@@ -360,9 +366,9 @@ Latency – Delsà
 
 Latest – Naujausias/Paskiausias
 
-Light-Emitting Diode (LED) – Šviesos diodas („LED“)
-
 Legacy – Pasenusio/-s standarto ar įrangos
+
+Light-Emitting Diode (LED) – Šviesos diodas („LED“)
 
 Link – Sujungimas/Nuoroda
 
@@ -371,6 +377,10 @@ List – Sąrašas
 Listen – Laukti (-iama/-s) prisijungimo/jungties ryšio
 
 Listening – Laukia prisijungimo/jungties ryšio (stebi užklausas ir pasiruošęs priimti)
+
+Limit – Riba
+
+Limiter – Ribotuvas/-ė
 
 Load – Įkelti/Apkrova
 
@@ -441,6 +451,8 @@ Notify – Pranešti
 
 Not installed – Neįdiegta
 
+NPU – Neuroninis apdorojantis vienetas („NPU“)
+
 Offloading – Iškrovimas/Apkrovos perkėlimas
 
 Offset – Poslinkis
@@ -492,6 +504,8 @@ Plugin – Plėtinys
 Port – Prievadas
 
 Ports – Prievadai
+
+Portable – Perkeliama/-s (pagal vartojimą – kėlioji); daikto forma (pvz.: kompiuteris) – Nešiojama/-s
 
 Pollrate – Apklausos dažnumas/intervalas
 
