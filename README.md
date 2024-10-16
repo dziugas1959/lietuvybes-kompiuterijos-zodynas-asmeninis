@@ -62,6 +62,8 @@ Blacklist – Draudžiamasis sąrašas
 
 Bridge – „Tinklo tiltas“ – Jungimas/-iamasis
 
+Brightness – Skai̇̃stis
+
 Broadcast – Transliacija/-vimas/-iuoti
 
 Browse – Naršyti
@@ -638,6 +640,8 @@ Setup – Sąranka
 Set-top Box (STB) – Išmaniosios televizijos priedėlis („STB“)
 
 Session – Seansas
+
+Sharpness – Ryškumas
 
 Shielded Twisted Pair/-s (STP) – Ekranuota/-os vyta/-ų pora/-os, varinis tinklo kabelis („STP“)
 
