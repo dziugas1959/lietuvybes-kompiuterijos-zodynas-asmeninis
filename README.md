@@ -787,6 +787,10 @@ Upload – Įkelti
 
 Upstream – Išsiunčiamas srautas
 
+Upscale – Išplėsti gebą
+
+Upscaled – Išplėstai padidinta geba
+
 UPS – Nenutrūkstamas/-o maitinimo šaltinis
 
 Uptime – Veikimo metas
