@@ -657,6 +657,8 @@ Slaves – Valdomieji
 
 Skip – Praleisti
 
+Skin – Dangà
+
 Snooping – Vientisinio adresinio sluoksnio protokolas – „Snooping“
 
 Software – Taikomoji programa
@@ -711,7 +713,7 @@ Termination – Sustabdymas
 
 Tethering – Saitvietė (jos veikimas) 
 
-Theme – Apipavidalinimas
+Theme – Apipavi̇̀dalinimas
 
 Threshold – Slenkstis
 
