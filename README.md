@@ -368,6 +368,8 @@ Latency – Delsà
 
 Latest – Naujausias/Paskiausias
 
+Layout – Išdėstymas
+
 Legacy – Pasenusio/-s standarto ar įrangos
 
 Light-Emitting Diode (LED) – Šviesos diodas („LED“)
