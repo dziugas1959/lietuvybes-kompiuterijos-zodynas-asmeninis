@@ -899,3 +899,12 @@ Dažnai, lietuvių kalboje tinkamos vartoti vyr. g. ir mot. g., todėl „tvarky
 * Aplankas/Aplankai/Aplanke su Aplankalas/Aplankalai/Aplankale.					(Tipiškai atskiria... nežinau 🤷‍♂️ )
 * Baterija/Baterijos/Baterijoje su Akumuliatorius/Akumuliatoriai/Akumuliatoriuje.		(Tipiškai atskiria įkraunamus ir iškraunamus)
 * Programa/Programos/Programoje su Programėlė/Programėlės/Programėlėse.  			(Tipiškai atskiria kompiuterines ir mobiliąsiąs)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Leksikai iš anglų k. vartotini.
+
+Stack – Šūsnis
+Stacking – Šūsniavimas
+Warehousing – Sandėliavimas
+
