@@ -527,6 +527,8 @@ Process – Apdoroti
 
 Processing – Aprodojimas/-ama
 
+Prompt – Ìškvieta
+
 Provider – Teikėjas (paslaugos); Tiekėjas (prekės)
 
 Proxy – Įgaliotas/-ai/-asis
