@@ -907,6 +907,7 @@ Dažnai, lietuvių kalboje tinkamos vartoti vyr. g. ir mot. g., todėl „tvarky
 Leksikai iš anglų k. vartotini.
 
 Stack – Šūsnis
-Stacking – Šūsniavimas
-Warehousing – Sandėliavimas
 
+Stacking – Šūsniavimas
+
+Warehousing – Sandėliavimas
