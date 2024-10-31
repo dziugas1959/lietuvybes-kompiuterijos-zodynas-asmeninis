@@ -414,7 +414,7 @@ Mesh – Junglusis/Tankusis
 
 Metadata – Metadúomenys
 
-Mode – Veiksena/ (Politinė reikšmė): Režimas
+Mode – Veiksena / (Politinė reikšmė): Režimas
 
 Modifications – Pakeitimai/Redagavimai
 
@@ -905,6 +905,10 @@ Dažnai, lietuvių kalboje tinkamos vartoti vyr. g. ir mot. g., todėl „tvarky
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Leksikai iš anglų k. vartotini.
+
+Craft – Meistriškai (su-)kurti/(pa-)gaminti.
+
+Crafting – Meistravimas
 
 Stack – Šūsnis
 
