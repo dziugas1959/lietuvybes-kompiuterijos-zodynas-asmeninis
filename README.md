@@ -252,6 +252,8 @@ Flash (Action) – Įrašymas į įrangą
 
 Folder – Aplankas/Aplankalas
 
+Folksonomy – Saitãžodis
+
 For – , skirta (prieš žodį kablelis)
 
 Forward – Tolyn/Persiųsti
@@ -863,6 +865,7 @@ Won't send – Nesiųs
 
 WWW (World wide web) – Visuotinis žiniatinklis/saitynas
 
+Website database / *Web/Net (storage) location* – Tinklãvietė
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Prestižinė kalba
