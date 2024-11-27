@@ -302,6 +302,8 @@ Hostname – Įrenginio (t.y skleidėjo/vedėjo) pavadinimas
 
 Hostnames – Įrenginių (t.y skleidėjų/vedėjų) pavadinimai
 
+Hotspot – „Wi-Fi“ viešãvietė
+
 Hooking – Agentavimas/Įsiterpimas (-o būdas); [Tiesiog įsiterpimas ar agentavimas į programą, tipiškai derinimo tikslams ar įsilaužimui].
 
 Icon – Piktograma
@@ -413,6 +415,8 @@ Merge – Suvienyti
 Mesh – Junglusis/Tankusis
 
 Metadata – Metadúomenys
+
+Metadata tag – Saitãžymė
 
 Mode – Veiksena / (Politinė reikšmė): Režimas
 
@@ -653,6 +657,8 @@ Singleplayer – Vienžaidėjė̄škā (Žemaičių k.)
 
 Size – Dydis
 
+Site map – Svetainės struktūra
+
 Syntax – Sintaksė
 
 Slave – Valdomasis
@@ -715,7 +721,7 @@ Template – Šablonas
 
 Termination – Sustabdymas
 
-Tethering – Saitvietė (jos veikimas) 
+Tethering (Private Hotspot) – Saitvietė (jos veikimas) 
 
 Theme – Apipavi̇̀dalinimas
 
@@ -854,6 +860,8 @@ Wireless – Belaidis/Bevielis
 Wizard – Vedi̇̀klis
 
 Won't send – Nesiųs
+
+WWW (World wide web) – Visuotinis žiniatinklis/saitynas
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
