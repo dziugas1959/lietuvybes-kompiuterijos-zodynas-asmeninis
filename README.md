@@ -609,6 +609,8 @@ Routed – Maršrutizuotas
 
 Routing – Kelvada
 
+Role – Vaidmuo
+
 Rotate – (Prieš) Atsinaujinti/Pakeisti.
 
 Run – Vykdyti
@@ -843,6 +845,10 @@ Via – Per
 
 Virtual Local Area Network (VLAN) – Virtualùsis viẽtinis tiñklas („VLAN“)
 
+Wall socket – Kištukinis lizdas
+
+Wall mounted socket-outlet – Si̇́eninis šakùtės li̇̀zdas
+
 Warning – Įspėjimas
 
 WAN – („WAN“) Platusis tinklas
@@ -886,15 +892,53 @@ Fiksuotasis/-oji – Įtvirtintasis/-oji
 
 Fragmentas – Nuotrupa
 
-Unikalus/-i – Išskirtinis/-ė
+Identiška/-s – Tapatus/-i
 
-Procesas – Vỹksmas
+Identifikuoti – Atpažinti/Nustatyti (tapatybę)
+
+Ignoruoti – Nepaisyti/Nekreipti Dėmesio/Neatsižvelgti
+
+Įkomponuoti – Įtraukti/Įtaikyti
+
+Informuoti – Pranešti
+
+Ingredientas – Sudėtis/Sudedamoji dalis
+
+Inovacija – Naujovė
+
+Inovatyvus/-i – Naujoviškas/-a 
+
+Interakcija – Sąveika
+
+Kompresija – Suslėgimas
+
+Konteineris – Krovininė/Krovadėžė
+
+Kontūras – Apybrėža
+
+Koreguoti – (Pa-)Tikslinti
+
+Korekcija – (Pa-)Tikslinimas
+
+Minusuoti – Atimti
+
+Unikalus/-i – Išskirtinis/-ė
 
 Specifika – Savitumas
 
 Specifinis/-ė – Savita/-s
 
 Reitingas – Įvertis
+
+Pretekstas – Dingstis
+
+Procesas – Vỹksmas
+
+Procentas – Nuošimtis (Jeigu iki 100-o)
+
+Pliusuoti – Pridėta
+
+Produktyvumas – Našumas
 
 Progresas – Pažanga
 
