@@ -432,12 +432,16 @@ Microchip – Mikroschema
 
 Multiplayer – Daugiažaidėjė̄škā (Žemaičių k.)
 
-Mux – Tankintuvas
-
 Multicast – Daugiadresinis transliavimas
+
+Multi-Link – Daugiasąsaja (-inis/-inė + ryšys ir t.t.) 
 
 Multiple Input Multiple Output (MIMO) – „Kelios įvestys, kelios išvestys“, tai technologija, kai belaidžiu/bevieliu ryšiu galima sudaryti daug
 lygiagrečių duomenų perdavimo ir priėmimo srautų („MIMO“/KĮKI)
+
+MLO – „MLO“ (daugiasąsajinė juostų naudosena)
+
+Mux – Tankintuvas
 
 Name – Pavadinimas (Ne asmuo)
 
