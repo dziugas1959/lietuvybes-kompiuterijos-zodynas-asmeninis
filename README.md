@@ -424,7 +424,7 @@ Mode – Veiksena / (Politinė reikšmė): Režimas
 
 Modifications – Pakeitimai/Redagavimai
 
-Monitor – Prižiūryklė/-ėtojas; Stebėti/-oja/-a; --- (Integruotas (pvz.: nešiojamas ar „trys viename“ kompiuteris)) – Vaizduoklis; (Išoriškas (pvz.: per laidą „HDMI“/„DisplayPort“/„VGA“ ir pan.) – Monitorius
+Monitor – Prižiūryklė/-ėtojas; Stebėti/-oja/-a; --- (Integruotas (pvz.: nešiojamas ar „trys viename“ kompiuteris)) – Vaizduoklis; (Išoriškas (pvz.: per laidą „HDMI“/„DisplayPort“/„VGA“ ir pan.)) – Monitorius
 
 Mount – Įrengimas
 
