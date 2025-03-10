@@ -270,6 +270,8 @@ From – Iš
 
 Frontend – Vidinė atviroji sąsaja
 
+Gadget – Malóndaiktis (t.y. prietaisas/įtaisas)
+
 Gateway – Tinklo tarpuvartė
 
 Global – Išorinis/Visuotinis
