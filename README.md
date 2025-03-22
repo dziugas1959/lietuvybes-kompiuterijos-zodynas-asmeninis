@@ -42,6 +42,8 @@ Aspect ratio – Proporcija
 
 AI – DI (Dirbtinis intelektas)
 
+Authenticator – Atpažintùvas
+
 Backend – Vidinė uždaroji sąsaja
 
 Based – Pagal/Remiantis
