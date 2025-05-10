@@ -857,6 +857,8 @@ Wall socket – Kištukinis lizdas
 
 Wall mounted socket-outlet – Si̇́eninis šakùtės li̇̀zdas
 
+Wallpaper – Darbalaukio fonas (Ekránvaizdis)
+
 Warning – Įspėjimas
 
 WAN – („WAN“) Platusis tinklas
