@@ -402,6 +402,8 @@ Local Peer Discovery (LPD) – Vietinis lygiarangio atradimas („LPD“)
 
 Log – Žurnalas
 
+Low(+-level) – Žemalỹgis (naudojamas kaip pridetinis žodis, nustatymui ar būsenai apibūdinti)
+
 Machine – „Mašina“ – Įrenginys
 
 Make sure – Įsitikinkite
