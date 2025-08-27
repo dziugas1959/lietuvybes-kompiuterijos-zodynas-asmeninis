@@ -74,6 +74,8 @@ Buffer – Buferis
 
 Bus – (Tinklo) Magistralė/Autobusas
 
+Build – Darinys
+
 Bypass – Apėjimas/-eiti
 
 Cable – Lai̇̃das
