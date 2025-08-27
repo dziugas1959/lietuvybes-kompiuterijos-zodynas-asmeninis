@@ -529,6 +529,14 @@ Portable – Perkeliama/-s (pagal vartojimą – kėlioji); daikto forma (pvz.: 
 
 Pollrate – Apklausos dažnumas/intervalas
 
+Post (action of) – Paskiausias/-ia (veiksmas ar jo dalykas) *Atitinkamai taikomi laipsniai; žr. https://morfologija.lietuviuzodynas.lt/zodzio-formos/paskiausias
+
+Pre (action of) – Parengtinis/-ė (veiksmas ar jo dalykas) *Atitinkamai taikomi laipsniai
+
+Pre (derivational prefix) – Išankstinis/-ė (tam tikro)
+
+Pre (hyphen compound) – (priešdėliai) Iki-/Prieš-
+
 Preference – Pageidavimas
 
 Prefix – Prielinksnis/Priešdėlis
