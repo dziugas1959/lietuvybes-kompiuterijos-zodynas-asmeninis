@@ -713,6 +713,8 @@ Stop – Stabdyti
 
 SSD – („SSD“) Standusis diskas
 
+Slider – Šliaužiklis/Slinktukas
+
 Spam – Brukalas
 
 Subnet – Potinklis
