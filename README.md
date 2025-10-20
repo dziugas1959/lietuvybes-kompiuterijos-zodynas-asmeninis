@@ -84,7 +84,7 @@ Cache – Talpykla/Podėlis
 
 Capture – Užfiksuoti
 
-Captive Portas – Périmančios pri̇̀eigos pagal̃ pãskirtį portãlas
+Captive Portal – Périmančios pri̇̀eigos pagal̃ pãskirtį portãlas
 
 Card – Plokštė/Kortelė
 
