@@ -52,6 +52,8 @@ Bandwidth – Duomenų siuntimo ir perdavimo srauto pralaidumas
 
 Battery – Baterija/Akumuliatorius
 
+Bearer – Nešiklis (perdavimo priemonė)
+
 Bidirectional – Dvikryptis
 
 Binary – Dvejetainė
@@ -88,7 +90,7 @@ Captive Portal – Périmančios pri̇̀eigos pagal̃ pãskirtį portãlas
 
 Card – Plokštė/Kortelė
 
-Carrier – Ryšio operatorius
+Carrier – Nešlys (moduliavimas) / Ryšio operatorius
 
 Chain – Grandinė
 
