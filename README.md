@@ -74,7 +74,9 @@ Browse – Naršyti
 
 Buffer – Buferis
 
-Bus – (Tinklo) Magistralė/Autobusas
+Bug – (Programos) Riktas
+
+Bus – (Tinklo/Plokštės) Magistralė
 
 Build – Darinys
 
@@ -134,7 +136,7 @@ Corresponding – Atitinkamus
 
 Coupler – Šakotùvas (Energija)
 
-Credential – Kredencialas (Remiantis ES dokumentais)
+Credential – Kredencialas [Remiantis ES dokumentais]
 
 Critical – Kritinė/-is
 
@@ -246,7 +248,7 @@ Fiber to the X (FTTX) – Duomenų perdavimo šviesolaidiniu kabeliu technologij
 
 Filesystem – Failų sistema
 
-Firewall – Užkarda (Komp./Tinklo); Ugniasienė (Ugnegesių gelbėtojų)
+Firewall – Užkarda (Komp./Tinklo); -[Ugniasienė (Ugnegesių gelbėtojų)]-
 
 Firmware – Programinė įranga
 
@@ -288,7 +290,7 @@ Gracefully – Grakščiai
 
 Grant – Duoti/Suteikti
 
-Ground – (Į)žeminimas+linksniai
+Ground – (Į-)žeminimas+linksniai
 
 Guest – Svečias
 
@@ -296,7 +298,7 @@ GPON – Gigabitinė šviesolaidinio prieigos tinklo technologija („GPON“)
 
 GPU – Grafinis apdorojantis vienetas („GPU“)
 
-HDD – („HDD“) Kietasis diskas
+HDD – Kietasis diskas („HDD“)
 
 Helper – Pagelbiklis (įrankis); Pagalbininkas/-ė (asmuo)
 
@@ -605,7 +607,7 @@ Relevant – Aktualus/Reikšmingas
 
 Reload – Perleidimas/-sti
 
-Report – At(a)skaita (žurn.); Pranešti (veiks.)
+Report – At(-a)skaita (žurn.); Pranešti (veiks.)
 
 Repeater – Kartotùvas/-ė
 
@@ -983,6 +985,9 @@ Dažnai, lietuvių kalboje tinkamos vartoti vyr. g. ir mot. g., todėl „tvarky
 * Baterija/Baterijos/Baterijoje su Akumuliatorius/Akumuliatoriai/Akumuliatoriuje.		(Tipiškai atskiria įkraunamus ir iškraunamus)
 * Programa/Programos/Programoje su Programėlė/Programėlės/Programėlėse.  			(Tipiškai atskiria kompiuterines ir mobiliąsiąs)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Jeigu nerandate tam tikro žodžio iš užsienio kalbos, kurio atitikmens nežinote ir jo šitame sąraše nėra, patariame telktis įvairinių žodynų šaltiniu puslapyje – raštija.lt !
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Leksikai iš anglų k. vartotini.
