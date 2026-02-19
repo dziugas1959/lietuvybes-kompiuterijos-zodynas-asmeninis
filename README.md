@@ -2,7 +2,7 @@
 
 Sveiki,
 
-Pristatau asmeninį su lietuviškinta kompiuterijos ir tinklavimo žodyną, jis remiamas oficialiais ir asmeninias, ypatingai remiantis raštija.lt, tačiau ten labai daug trūkumų ir netikslumų, todėl esu sukūręs savo papildomo išdėstymo žodyną. Visas šis žodynas yra ranka darytas.
+Pristatau asmeninį su lietuviškinta kompiuterijos ir tinklavimo žodyną, jis remiamas oficialiais ir asmeninias, ypatingai remiantis žodynų ir šaltinių telkiniu – raštija.lt, tačiau ten labai daug trūkumų ir netikslumų (liaudiškai – mišrainė), todėl esu sukūręs savo papildomo išdėstymo žodyną. Visas šis žodynas yra ranka darytas.
 
 Jeigu turite pasiūlymų ar pastebėjimų, sukurkite „Issues“ skirtuke pranešimą.
 
